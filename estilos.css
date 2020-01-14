@@ -1,11 +1,27 @@
 body{
     background-color: #FFEACC;
+    font-family: sans-serif;
 }
 
-span.rosa{
+span.fondo_rosa{
     background-color: #FFCCEA;
 }
 
-span.blanco{
+span.fondo_blanco{
     background-color: #FFFFFF;
 }
+
+h1{
+    color: #995900;
+    text-transform: uppercase;
+}
+
+p.pregunta{
+    color: #FFA00A;
+    font-size: 2rem;
+}
+
+summary {
+    font-size: 4rem;  
+}
+
